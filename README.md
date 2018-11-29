@@ -10,9 +10,9 @@ HOW TO USE:
 
 In order to match this program to your needs, you need to know the following caracteristics of your insulation:
 
--cp # Specific Heat in J/kg*K
--rho # Density in kg/m^3
--k # Thermal Conductivity in W/m*K
+cp # Specific Heat in J/kg*K
+, rho # Density in kg/m^3
+, k # Thermal Conductivity in W/m*K
 
 Those will be used to calculate the Thermal diffusion coefficient of your insulation.
 
