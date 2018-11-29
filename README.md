@@ -14,7 +14,7 @@ cp # Specific Heat in J/kg*K
 , rho # Density in kg/m^3
 , k # Thermal Conductivity in W/m*K
 
-Those will be used to calculate the Thermal diffusion coefficient of your insulation.
+These will be used to calculate the Thermal diffusion coefficient of your insulation.
 
 Moreover, you'll need to know the average ascension speed of your balloon. 
 
