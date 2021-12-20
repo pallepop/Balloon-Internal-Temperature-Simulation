@@ -24,4 +24,4 @@ This program is based on the simplified version of the heat equation (1 dimensio
 Three assumptions are made:
 -the temperature at the edge of the basket insulation (outside) is the same as the air outside (which does not take into account the boundary layer).
 -the temperature inside the backet is the same as the temperature at the edge of the basket insulation (inside) (which should be enough because you don't put your experiments in "mid air").
--The power produced from the electical components (arduino, raspberry pi for example) is neglected.
+-The heat produced from the electical components (arduino, raspberry pi for example) is neglected.
